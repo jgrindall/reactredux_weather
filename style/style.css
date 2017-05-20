@@ -1,6 +1,15 @@
-li{
-    padding:8px;
-    background:rgba(30,30,210,0.5);
-    margin:8px;
-    cursor:pointer;
+body{
+    font-family: verdana, arial, sans-serif;
+}
+input{
+    margin:5px;
+    padding:10px;
+    font-size: larger;
+    border-radius: 8px;
+    display: inline-block;
+    border:2px solid gray;
+}
+button{
+    margin: 7px;
+    font-size:larger;
 }
